@@ -1,0 +1,15 @@
+*{
+  margin: 0px;
+  font-family: Helvetica, sans-serif;
+  font-weight: 300;
+}
+
+.mouse{
+  font-size: 60px;
+  position: relative;
+}
+
+.App{
+  height: 100vh;
+  display: flex;
+}
